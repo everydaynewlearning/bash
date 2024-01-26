@@ -1,0 +1,5 @@
+kernel:
+kernel is the heart of OS.
+kernel is used to maintain device management, memory management, process management and system realted calls.
+
+shell scripting:
